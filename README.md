@@ -30,7 +30,8 @@ Page Set Up:
 
 ## Links
 
-Deployed application:
+Deployed application: https://polar-waters-84110.herokuapp.com/
+
 
 ## Technologies
 
